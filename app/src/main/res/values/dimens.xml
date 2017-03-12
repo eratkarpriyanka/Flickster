@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="list_view_margin">15dp</dimen>
+    <dimen name="list_view_padding">15dp</dimen>
+    <dimen name="image_margin_right">10dp</dimen>
+</resources>

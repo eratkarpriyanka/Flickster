@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flickster</string>
+    <string name="empty_movie_list">Yet to get Movies...</string>
+</resources>
